@@ -36,6 +36,7 @@ const App = () => {
   }
 
   return (
+    // wrapping all return in a div to return a single element
     <div>
 
       <section id="goal-form">
